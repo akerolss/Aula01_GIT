@@ -7,3 +7,6 @@ Já o GitHub é uma rede social para desenvolvedores.
 que trablham ao mesmo tempo nesse projeto.
 
 4- As vantagens de se utilizar o Git seria para ter controle de versão . Sim, utilizaria. 
+
+
+1
